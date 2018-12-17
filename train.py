@@ -86,7 +86,7 @@ if __name__ == "__main__":
     
     ## If true trains with data loaded with a generator, 
     ## if false, loads data to memory and trains with this
-    if False:
+    if True:
         num_steps = 100
         num_epochs = 100
         
@@ -103,6 +103,9 @@ if __name__ == "__main__":
         y = np.load('C:\koodia\huawei\y_128_half_random.npy')
         
         X = X / 255.0
+        
+        for row in X:
+            row = row /255.0
         
         lb = LabelBinarizer()
         y = lb.fit_transform(y)

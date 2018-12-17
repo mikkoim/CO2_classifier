@@ -52,13 +52,16 @@ if __name__ == "__main__":
     
     recipelist = recipes.values.flatten().tolist()
     
-    diffs = {}
-    for label in label_names:
-        diffs[label] = []
-        for i in range(len(recipelist)):
-            dif = diff(recipelist[i], label)
-            diffs[label].append(dif)
-            print("{}: {}".format(label, i))
+#    diffs = {}
+#    for label in label_names:
+#        diffs[label] = []
+#        for i in range(len(recipelist)):
+#            dif = diff(recipelist[i], label)
+#            diffs[label].append(dif)
+#            print("{}: {}".format(label, i))
+            
+#    np.save('diffs.npy',diffs)
+    diffs = np.load('diffs.npy').item()
             
     similars = {}
     for key in diffs.keys():
