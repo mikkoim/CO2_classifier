@@ -78,7 +78,7 @@ if __name__ == "__main__":
     
 #    model = get_model(imsize, 101)
     model = get_pretrained_model(imsize, 101, 'MobileNet')
-#    model = load_old_model('mobilenet_generator_128_240epochs_model.h5')
+#    model = load_old_model('models\\mobilenet_generator_128_240epochs_model.h5')
     
     model.summary()
     model.compile(optimizer = 'adam', loss = 'categorical_crossentropy',

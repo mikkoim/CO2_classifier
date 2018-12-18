@@ -26,7 +26,7 @@ testpath =  "C:\\koodia\\huawei\\food-101\\food-101\\meta\\test.json"
 
 #LOAD MODEL
 imsize = (128,128,3)
-model = load_old_model('mobilenet_generator_128_240epochs_model.h5')
+model = load_old_model('models\\mobilenet_generator_128_240epochs_model.h5')
 X_test, y_test = load_data(datapath, testpath, imsize, 0.01)
 X_test = X_test / 255.0
 

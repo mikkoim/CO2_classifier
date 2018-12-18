@@ -1,0 +1,23 @@
+name	ind
+Baklava	-1
+Beef carpaccio	26007
+Beef tartare	-1
+Bread pudding	01933
+Cheese plate	01913
+Cup cakes	02620
+Donuts	20927
+Edamame	24125
+Escargots	-1
+Falafel	10649
+Foie gras	13906
+French fries	14309
+Gyoza	-1
+Lobster roll sandwich	-1
+Omelette	00539
+Peking duck	23703
+Pho	08327
+Poutine	02296
+Seaweed salad	-1
+Sushi	12434
+Takoyaki	-1
+Tuna tartare	-1

@@ -139,3 +139,27 @@ def load_old_model(filename):
     with CustomObjectScope({'relu6': keras.applications.mobilenet.relu6,'DepthwiseConv2D': keras.applications.mobilenet.DepthwiseConv2D}):
         model = keras.models.load_model(filename)
     return model
+
+
+def find_similar(a,b,k=10):
+    from difflib import SequenceMatcher
+    def diff(a, b):
+        return SequenceMatcher(None, a, b).ratio()
+    
+    diffs = {}
+    for value in a:
+        diffs[value] = []
+        for i in range(len(b)):
+            dif = diff(b[i], value)
+            diffs[value].append(dif)
+            print("{}: {}".format(value, i))
+    
+    similars = {}
+    sim_indices = {}
+    for key in diffs.keys():
+        top_k = np.asarray(diffs[key]).argsort(axis=0)[-k::][::-1]
+        recipe = np.asarray(b)[top_k]
+        similars[key] = recipe
+        sim_indices[key] = top_k
+        
+    return diffs, similars, sim_indices

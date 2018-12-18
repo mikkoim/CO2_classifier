@@ -1,0 +1,142 @@
+name;co2;co2id
+Onion;0.17;1
+Celery;0.18;2
+Potatoes;0.18;3
+Carrots;0.2;4
+Zucchini;0.21;5
+Button squash;0.21;6
+Beetroot;0.24;7
+Pumpkins;0.25;8
+Rockmelon;0.25;9
+Cantelope;0.25;10
+Lemon;0.26;11
+Lime;0.26;12
+Mushrooms;0.27;13
+Guavas;0.28;14
+Apples;0.29;15
+Swedes;0.29;16
+Rutabage;0.29;17
+Pears;0.31;18
+Quinces;0.31;19
+Green beans;0.31;20
+Watermelons;0.32;21
+Dates;0.32;22
+Orange;0.33;23
+Kiwi fruit;0.36;24
+Cauliflowers;0.36;25
+Grapes;0.37;26
+Oats;0.38;27
+Rye;0.38;28
+Peas;0.38;29
+Cherries;0.39;30
+Butter beans;0.39;31
+Almond milk;0.42;32
+Coconut milk;0.42;33
+Peaches;0.43;34
+Nectarines;0.43;35
+Figs;0.43;36
+Barley;0.43;37
+Apricot;0.43;38
+Chestnuts;0.43;39
+Beans;0.43;40
+Maize;0.47;41
+Corn;0.47;42
+Fennel;0.48;43
+Artichokes;0.48;44
+Cowpeas;0.49;45
+Soybean;0.49;46
+Pineapples;0.5;47
+Broccoli;0.5;48
+Melons;0.51;49
+Grapefruit;0.51;50
+Pomelo;0.51;51
+Tangerines;0.51;52
+Mandarins;0.51;53
+Wheat;0.52;54
+Spinach;0.54;55
+Garlic;0.57;56
+Olives;0.63;57
+Capsicums;0.66;58
+Peppers;0.66;59
+Soy-milk;0.75;60
+Chick peas;0.77;61
+Tomatoes;0.8;62
+Asparagus;0.83;63
+Peanuts;0.83;64
+Raspberries;0.84;65
+Currants;0.84;66
+Gooseberries;0.84;67
+Sesame seed;0.88;68
+Ginger;0.88;69
+Cranberries;0.92;70
+Blueberries;0.92;71
+Hazelnuts;0.97;72
+Ground nuts;0.99;73
+Lentils;1.03;74
+Pilchard;1.1;75
+Strawberries;1.1;76
+Quinoa;1.15;77
+Herring;1.16;78
+Milk;1.29;79
+Avocados;1.3;80
+Yoghurt;1.31;81
+Eggplants;1.35;82
+Aubergines;1.35;83
+Sunflower seed;1.41;84
+Cashew nut;1.44;85
+Melons;1.43;86
+Walnuts;1.51;87
+Pistachios;1.53;88
+Almonds;1.54;89
+Pollock;1.6;90
+Carp;1.76;91
+Mackerel;1.8;92
+Mustard seed;2.09;93
+Rape seed;2.09;94
+Cucumbers;2.1;95
+Gherkins;2.1;96
+Tuna;2.15;97
+Rice;2.55;98
+Whiting;2.66;99
+Duck;3.09;100
+Sea bass;3.27;101
+Haddock;3.41;102
+Eggs;3.46;103
+Salmon;3.47;104
+Fish;3.49;105
+Cod;3.51;106
+Buffalo milk;3.57;107
+Chicken;3.65;108
+Lettuce;3.7;109
+Eel;3.88;110
+Kangaroo;4.1;111
+Trout;4.2;112
+Rabbit;4.7;113
+Cream;5.64;114
+Pork;5.77;115
+Ling common;6.45;116
+Pomfret;6.63;117
+Rock fish;6.94;118
+Octopus;7.13;119
+Squid;7.13;120
+Cuttlefish;7.13;121
+Prawns;7.8;122
+Shrimp;7.8;123
+Turkey;7.17;124
+Diamond fish;8.33;125
+Rhombus;8.41;126
+Cheese;8.55;127
+Butter;9.25;128
+Mussels;9.51;129
+Hake;9.77;130
+Porbeagle;11.44;131
+Shark mako;11.5;132
+Anglerfish;12.29;133
+Swordfish;12.84;134
+Megrim;14.15;135
+Turbot;14.51;136
+Sole;20.86;137
+Lamb;25.58;138
+Beef;26.61;139
+Lobster;27.8;140
+Buffalo;60.43;141

@@ -1,0 +1,15 @@
+name,ind
+Cheesecake,2
+Chicken curry,1
+Dumplings,6
+Filet mignon,1
+Grilled salmon,1
+Hamburger,2
+Hot dog,2
+Macarons,1
+Mussels,2
+Pork chop,1
+Ramen,6
+Scallops,1
+Spring rolls,1
+Waffles,5
